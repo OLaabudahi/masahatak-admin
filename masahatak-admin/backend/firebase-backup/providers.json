@@ -1,0 +1,114 @@
+[
+  {
+    "id": "72AyNefkklYgIVVMZ1iU",
+    "data": {
+      "phoneNumber": "+1234567894",
+      "address": {
+        "zipCode": "10001",
+        "country": "USA",
+        "city": "New York",
+        "state": "NY",
+        "street": "123 Business Ave"
+      },
+      "email": "provider2@masahatak.com",
+      "businessName": "Creative Hub Spaces",
+      "stats": {
+        "averageRating": 0,
+        "totalBookings": 0,
+        "totalRevenue": 0,
+        "activeWorkspaces": 0,
+        "totalWorkspaces": 0
+      },
+      "ownerName": "Michael Chen",
+      "createdAt": {
+        "_seconds": 1767688981,
+        "_nanoseconds": 983000000
+      },
+      "updatedBy": "NrQCeiETFmvA4iNcbLTw",
+      "updatedAt": {
+        "_seconds": 1767719975,
+        "_nanoseconds": 394000000
+      },
+      "deletedAt": {
+        "_seconds": 1767719981,
+        "_nanoseconds": 613000000
+      },
+      "statusReason": "kkk",
+      "deletedBy": "NrQCeiETFmvA4iNcbLTw",
+      "status": "deleted"
+    }
+  },
+  {
+    "id": "ApPMer040bACF4ItaxHZ",
+    "data": {
+      "email": "provider3@masahatak.com",
+      "phoneNumber": "+1234567895",
+      "stats": {
+        "averageRating": 0,
+        "activeWorkspaces": 0,
+        "totalWorkspaces": 0,
+        "totalRevenue": 0,
+        "totalBookings": 0
+      },
+      "address": {
+        "state": "NY",
+        "street": "123 Business Ave",
+        "city": "New York",
+        "zipCode": "10001",
+        "country": "USA"
+      },
+      "ownerName": "Emily Rodriguez",
+      "businessName": "Tech Haven",
+      "createdAt": {
+        "_seconds": 1767688982,
+        "_nanoseconds": 772000000
+      },
+      "updatedBy": "NrQCeiETFmvA4iNcbLTw",
+      "updatedAt": {
+        "_seconds": 1767727856,
+        "_nanoseconds": 238000000
+      },
+      "deletedAt": {
+        "_seconds": 1767727860,
+        "_nanoseconds": 792000000
+      },
+      "statusReason": "hhh",
+      "deletedBy": "NrQCeiETFmvA4iNcbLTw",
+      "status": "deleted"
+    }
+  },
+  {
+    "id": "Lmu27vJVbmzJFOCOJ6AF",
+    "data": {
+      "address": {
+        "zipCode": "10001",
+        "city": "New York",
+        "state": "NY",
+        "country": "USA",
+        "street": "123 Business Ave"
+      },
+      "businessName": "Modern Workspace Co.",
+      "email": "provider1@masahatak.com",
+      "stats": {
+        "totalBookings": 0,
+        "averageRating": 0,
+        "totalWorkspaces": 0,
+        "activeWorkspaces": 0,
+        "totalRevenue": 0
+      },
+      "phoneNumber": "+1234567893",
+      "ownerName": "Sarah Johnson",
+      "createdAt": {
+        "_seconds": 1767688981,
+        "_nanoseconds": 169000000
+      },
+      "updatedBy": "NrQCeiETFmvA4iNcbLTw",
+      "statusReason": "",
+      "status": "active",
+      "updatedAt": {
+        "_seconds": 1767765514,
+        "_nanoseconds": 811000000
+      }
+    }
+  }
+]

@@ -1,13 +1,5 @@
-# تجاهل مكتبات الـ Node
 node_modules/
-
-# تجاهل ملفات البيئة السرية
+backend/node_modules/
+frontend/node_modules/
 .env
-.env.local
-
-# تجاهل مجلدات البناء (Production)
-backend/build/
 frontend/build/
-
-# تجاهل ملفات النظام
-.DS_Store

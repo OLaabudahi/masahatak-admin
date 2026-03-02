@@ -1,0 +1,250 @@
+[
+  {
+    "id": "6ZIjyInh6vyxVGNvfhvK",
+    "data": {
+      "comment": "Decent meeting room but could use better air conditioning. Otherwise it was fine.",
+      "userId": "6Jd6gwIVSz1VXc7bufiz",
+      "updatedAt": {
+        "_seconds": 1737244800,
+        "_nanoseconds": 0
+      },
+      "createdAt": {
+        "_seconds": 1737244800,
+        "_nanoseconds": 0
+      },
+      "workspaceId": "uIJNNDvEutHY1UKngE33",
+      "rating": 3,
+      "flagReason": "",
+      "deletedBy": "NrQCeiETFmvA4iNcbLTw",
+      "status": "deleted",
+      "flaggedAt": {
+        "_seconds": 1767727931,
+        "_nanoseconds": 511000000
+      },
+      "flagged": true,
+      "flaggedBy": "NrQCeiETFmvA4iNcbLTw",
+      "deletionReason": "gfd",
+      "deletedAt": {
+        "_seconds": 1767727935,
+        "_nanoseconds": 560000000
+      }
+    }
+  },
+  {
+    "id": "7V2BInjN7QtqNDnWBo3M",
+    "data": {
+      "bookingId": "zHI1HprcL9goxE46zaSg",
+      "userId": "fc9It4lndFsnXJIotNYP",
+      "comment": "Excellent facilities and friendly staff.",
+      "workspaceId": "Te51DfbkLNidSZSX3I2c",
+      "rating": 5,
+      "updatedAt": {
+        "_seconds": 1767764597,
+        "_nanoseconds": 390000000
+      },
+      "createdAt": {
+        "_seconds": 1769600583,
+        "_nanoseconds": 444000000
+      },
+      "flagReason": "",
+      "deletedBy": "NrQCeiETFmvA4iNcbLTw",
+      "status": "deleted",
+      "deletionReason": "Content violation",
+      "flaggedAt": null,
+      "flagged": false,
+      "flaggedBy": null,
+      "deletedAt": {
+        "_seconds": 1767764854,
+        "_nanoseconds": 978000000
+      }
+    }
+  },
+  {
+    "id": "8GkGCtIfiVt6eCDSCUUq",
+    "data": {
+      "workspaceId": "z5Zw2zxW0c94ZrrKnjN1",
+      "userId": "fc9It4lndFsnXJIotNYP",
+      "createdAt": {
+        "_seconds": 1767098583,
+        "_nanoseconds": 444000000
+      },
+      "comment": "Nice space but a bit noisy.",
+      "bookingId": "7vMvW1ODi94YiM7ctxDN",
+      "updatedAt": {
+        "_seconds": 1767764597,
+        "_nanoseconds": 390000000
+      },
+      "rating": 5
+    }
+  },
+  {
+    "id": "H2Z3ukNQMBPgd6iVVHJW",
+    "data": {
+      "updatedAt": {
+        "_seconds": 1767764597,
+        "_nanoseconds": 390000000
+      },
+      "userId": "fc9It4lndFsnXJIotNYP",
+      "rating": 5,
+      "workspaceId": "Te51DfbkLNidSZSX3I2c",
+      "createdAt": {
+        "_seconds": 1765629783,
+        "_nanoseconds": 444000000
+      },
+      "comment": "Perfect location and amenities. Highly recommend!",
+      "bookingId": "1ZDduv057kX0hCmYLfJX"
+    }
+  },
+  {
+    "id": "OQsWh7mIbksH9wgyH97Y",
+    "data": {
+      "rating": 2,
+      "updatedAt": {
+        "_seconds": 1735257600,
+        "_nanoseconds": 0
+      },
+      "createdAt": {
+        "_seconds": 1735171200,
+        "_nanoseconds": 0
+      },
+      "flagged": true,
+      "flagReason": "Review under investigation",
+      "comment": "Very disappointed. The space was not as clean as advertised and the WiFi kept disconnecting.",
+      "status": "flagged",
+      "workspaceId": "yWAIhyqsBA6tbP00Bluv",
+      "userId": "fc9It4lndFsnXJIotNYP"
+    }
+  },
+  {
+    "id": "R7yssFPvNwriwkSjXfUm",
+    "data": {
+      "workspaceId": "yWAIhyqsBA6tbP00Bluv",
+      "userId": "KyFKwTsTSxYjVc4PBXJa",
+      "comment": "Excellent workspace! Very clean and professional environment. The WiFi is super fast and the staff is very helpful.",
+      "bookingId": "I92amaH7rawCxsXHYRti",
+      "updatedAt": {
+        "_seconds": 1736121600,
+        "_nanoseconds": 0
+      },
+      "rating": 5,
+      "createdAt": {
+        "_seconds": 1736121600,
+        "_nanoseconds": 0
+      },
+      "deletionReason": "Content violation",
+      "deletedAt": {
+        "_seconds": 1767764995,
+        "_nanoseconds": 281000000
+      },
+      "deletedBy": "NrQCeiETFmvA4iNcbLTw",
+      "status": "deleted"
+    }
+  },
+  {
+    "id": "VyKappLeKFQUxf9cxoTX",
+    "data": {
+      "updatedAt": {
+        "_seconds": 1767764597,
+        "_nanoseconds": 390000000
+      },
+      "createdAt": {
+        "_seconds": 1767872583,
+        "_nanoseconds": 444000000
+      },
+      "userId": "fc9It4lndFsnXJIotNYP",
+      "comment": "Great workspace! Very comfortable and well-equipped.",
+      "rating": 3,
+      "workspaceId": "SJo8I5vfCyWGybe6PZfP",
+      "bookingId": "QRXrpwqMT22piVNvvSQz",
+      "flagReason": "",
+      "flaggedAt": {
+        "_seconds": 1767767185,
+        "_nanoseconds": 405000000
+      },
+      "flagged": true,
+      "flaggedBy": "NrQCeiETFmvA4iNcbLTw"
+    }
+  },
+  {
+    "id": "l1xn5MNiaVW4ACicvGfZ",
+    "data": {
+      "comment": "Great office space with modern amenities. A bit pricey but worth it for the quality.",
+      "workspaceId": "z5Zw2zxW0c94ZrrKnjN1",
+      "updatedAt": {
+        "_seconds": 1736380800,
+        "_nanoseconds": 0
+      },
+      "bookingId": "epEtGW2qr2Sqd5GGBlJN",
+      "createdAt": {
+        "_seconds": 1736380800,
+        "_nanoseconds": 0
+      },
+      "rating": 4,
+      "userId": "fc9It4lndFsnXJIotNYP",
+      "deletionReason": "Content violation",
+      "deletedAt": {
+        "_seconds": 1767727941,
+        "_nanoseconds": 106000000
+      },
+      "deletedBy": "NrQCeiETFmvA4iNcbLTw",
+      "status": "deleted"
+    }
+  },
+  {
+    "id": "n9gb5q2mRs2bx2IsMp1E",
+    "data": {
+      "updatedAt": {
+        "_seconds": 1734739200,
+        "_nanoseconds": 0
+      },
+      "rating": 5,
+      "userId": "KyFKwTsTSxYjVc4PBXJa",
+      "comment": "Perfect for our team meetings. The location is convenient and the facilities are top-notch.",
+      "workspaceId": "z5Zw2zxW0c94ZrrKnjN1",
+      "bookingId": "2WqlfafSKOMCMGi5vFPN",
+      "createdAt": {
+        "_seconds": 1734739200,
+        "_nanoseconds": 0
+      },
+      "deletionReason": "Content violation",
+      "deletedAt": {
+        "_seconds": 1767765598,
+        "_nanoseconds": 126000000
+      },
+      "deletedBy": "NrQCeiETFmvA4iNcbLTw",
+      "status": "deleted"
+    }
+  },
+  {
+    "id": "oNAKTyIvFpmX611WbdvW",
+    "data": {
+      "updatedAt": {
+        "_seconds": 1767764597,
+        "_nanoseconds": 390000000
+      },
+      "comment": "Wonderful atmosphere for productive work.",
+      "bookingId": "ll2oOCXtq23nPvYsROOt",
+      "userId": "yjOCZj2FJWQ2mjWp63P7",
+      "createdAt": {
+        "_seconds": 1768646583,
+        "_nanoseconds": 443000000
+      },
+      "rating": 4,
+      "workspaceId": "bKCrlflgddOyzvKmMEiE",
+      "flagReason": "",
+      "flaggedAt": {
+        "_seconds": 1767764980,
+        "_nanoseconds": 994000000
+      },
+      "flagged": true,
+      "flaggedBy": "NrQCeiETFmvA4iNcbLTw",
+      "deletionReason": "Content violation",
+      "deletedAt": {
+        "_seconds": 1767764985,
+        "_nanoseconds": 769000000
+      },
+      "deletedBy": "NrQCeiETFmvA4iNcbLTw",
+      "status": "deleted"
+    }
+  }
+]

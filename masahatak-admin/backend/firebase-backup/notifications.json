@@ -1,0 +1,233 @@
+[
+  {
+    "id": "1qJhcC95j4r0cLUx8bre",
+    "data": {
+      "updatedAt": {
+        "_seconds": 1767764599,
+        "_nanoseconds": 454000000
+      },
+      "message": "Payment has been received successfully",
+      "createdAt": {
+        "_seconds": 1767691233,
+        "_nanoseconds": 40000000
+      },
+      "adminId": "BDzQhzzC2m2mBqOWziCG",
+      "read": true,
+      "title": "Payment Received",
+      "type": "payment_received"
+    }
+  },
+  {
+    "id": "777ZesdWewNvE51fFuXO",
+    "data": {
+      "updatedAt": {
+        "_seconds": 1767764599,
+        "_nanoseconds": 454000000
+      },
+      "adminId": "BDzQhzzC2m2mBqOWziCG",
+      "read": true,
+      "message": "Your booking has been confirmed",
+      "type": "booking_confirmed",
+      "title": "Booking Confirmed",
+      "createdAt": {
+        "_seconds": 1767559543,
+        "_nanoseconds": 502000000
+      }
+    }
+  },
+  {
+    "id": "AJ59qiXWG2gzhAKIot8p",
+    "data": {
+      "message": "A booking has been cancelled",
+      "title": "Booking Cancelled",
+      "updatedAt": {
+        "_seconds": 1767764599,
+        "_nanoseconds": 454000000
+      },
+      "read": true,
+      "type": "booking_cancelled",
+      "adminId": "BDzQhzzC2m2mBqOWziCG",
+      "createdAt": {
+        "_seconds": 1767518703,
+        "_nanoseconds": 645000000
+      }
+    }
+  },
+  {
+    "id": "ATh41pIPBzskTOyH3t9o",
+    "data": {
+      "type": "new_user",
+      "adminId": "BDzQhzzC2m2mBqOWziCG",
+      "createdAt": {
+        "_seconds": 1767448837,
+        "_nanoseconds": 158000000
+      },
+      "message": "A new user has registered",
+      "title": "New User",
+      "read": true,
+      "updatedAt": {
+        "_seconds": 1767764599,
+        "_nanoseconds": 454000000
+      }
+    }
+  },
+  {
+    "id": "EUenlfb4na54cLj4euKh",
+    "data": {
+      "type": "new_review",
+      "userId": "yjOCZj2FJWQ2mjWp63P7",
+      "createdAt": {
+        "_seconds": 1767587515,
+        "_nanoseconds": 499000000
+      },
+      "read": false,
+      "updatedAt": {
+        "_seconds": 1767764599,
+        "_nanoseconds": 454000000
+      },
+      "title": "New Review",
+      "message": "A new review has been posted"
+    }
+  },
+  {
+    "id": "Ktodx8JWczD1gFkRM5Bw",
+    "data": {
+      "createdAt": {
+        "_seconds": 1767014020,
+        "_nanoseconds": 770000000
+      },
+      "updatedAt": {
+        "_seconds": 1767764599,
+        "_nanoseconds": 454000000
+      },
+      "title": "New User",
+      "type": "new_user",
+      "adminId": "BDzQhzzC2m2mBqOWziCG",
+      "read": false,
+      "message": "A new user has registered"
+    }
+  },
+  {
+    "id": "NQmBxBVnJMBZKUZaC65R",
+    "data": {
+      "updatedAt": {
+        "_seconds": 1767764599,
+        "_nanoseconds": 454000000
+      },
+      "title": "New User",
+      "type": "new_user",
+      "createdAt": {
+        "_seconds": 1767478599,
+        "_nanoseconds": 171000000
+      },
+      "adminId": "NrQCeiETFmvA4iNcbLTw",
+      "read": true,
+      "message": "A new user has registered"
+    }
+  },
+  {
+    "id": "bad95HbFiZHHXaLMIOvY",
+    "data": {
+      "updatedAt": {
+        "_seconds": 1767764599,
+        "_nanoseconds": 454000000
+      },
+      "message": "A booking has been cancelled",
+      "type": "booking_cancelled",
+      "read": false,
+      "title": "Booking Cancelled",
+      "userId": "fc9It4lndFsnXJIotNYP",
+      "createdAt": {
+        "_seconds": 1767240100,
+        "_nanoseconds": 11000000
+      }
+    }
+  },
+  {
+    "id": "iGMDJTxBjfRCFEaVGaD2",
+    "data": {
+      "createdAt": {
+        "_seconds": 1766994350,
+        "_nanoseconds": 818000000
+      },
+      "read": false,
+      "title": "Payment Received",
+      "type": "payment_received",
+      "updatedAt": {
+        "_seconds": 1767764599,
+        "_nanoseconds": 454000000
+      },
+      "adminId": "NrQCeiETFmvA4iNcbLTw",
+      "message": "Payment has been received successfully"
+    }
+  },
+  {
+    "id": "k3Z1O3pFB5V0156dLBjR",
+    "data": {
+      "recipientType": "user",
+      "createdAt": {
+        "_seconds": 1767765621,
+        "_nanoseconds": 766000000
+      },
+      "message": "fdgfdg",
+      "isRead": false,
+      "type": "general",
+      "title": "gfgdg",
+      "userId": "yf2OeuoxtKe5YJo22TnM"
+    }
+  },
+  {
+    "id": "oItl0pm1fn0YpgHC8uVZ",
+    "data": {
+      "userId": "fc9It4lndFsnXJIotNYP",
+      "createdAt": {
+        "_seconds": 1767033852,
+        "_nanoseconds": 492000000
+      },
+      "message": "A new review has been posted",
+      "type": "new_review",
+      "updatedAt": {
+        "_seconds": 1767764599,
+        "_nanoseconds": 454000000
+      },
+      "read": true,
+      "title": "New Review"
+    }
+  },
+  {
+    "id": "wyi9zH0RQeiUVg3FZxSs",
+    "data": {
+      "updatedAt": {
+        "_seconds": 1767764599,
+        "_nanoseconds": 454000000
+      },
+      "type": "booking_confirmed",
+      "read": false,
+      "message": "Your booking has been confirmed",
+      "title": "Booking Confirmed",
+      "createdAt": {
+        "_seconds": 1767340556,
+        "_nanoseconds": 829000000
+      },
+      "userId": "yjOCZj2FJWQ2mjWp63P7"
+    }
+  },
+  {
+    "id": "xF0WEJ9MWP8yB7WiWYpe",
+    "data": {
+      "message": "A booking has been cancelled",
+      "title": "Booking Cancelled",
+      "createdAt": {
+        "_seconds": 1767572857,
+        "_nanoseconds": 344000000
+      },
+      "read": false,
+      "updatedAt": {
+        "_seconds": 1767764599,
+        "_nanoseconds": 454000000
+      },
+      "adminId": "NrQCeiETFmvA4iNcbLTw",
+      "type": "booking_cancelled"
+    }
+  }
+]

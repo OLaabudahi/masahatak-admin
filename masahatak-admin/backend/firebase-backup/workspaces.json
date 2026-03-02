@@ -1,0 +1,488 @@
+[
+  {
+    "id": "00SqjVMwTvqvEZWxzymL",
+    "data": {
+      "stats": {
+        "viewCount": 0,
+        "reviewCount": 0,
+        "totalRevenue": 0,
+        "averageRating": 0,
+        "totalBookings": 0
+      },
+      "description": "Premium private office space with city views.",
+      "amenities": [
+        "WiFi",
+        "Private Bathroom",
+        "Coffee",
+        "AC"
+      ],
+      "capacity": 4,
+      "spaceType": "office",
+      "availability": {
+        "friday": {
+          "start": "09:00",
+          "available": true,
+          "end": "18:00"
+        },
+        "wednesday": {
+          "available": true,
+          "end": "18:00",
+          "start": "09:00"
+        },
+        "monday": {
+          "available": true,
+          "end": "18:00",
+          "start": "09:00"
+        },
+        "sunday": {
+          "start": "10:00",
+          "available": false,
+          "end": "16:00"
+        },
+        "tuesday": {
+          "start": "09:00",
+          "available": true,
+          "end": "18:00"
+        },
+        "thursday": {
+          "available": true,
+          "start": "09:00",
+          "end": "18:00"
+        },
+        "saturday": {
+          "end": "16:00",
+          "available": false,
+          "start": "10:00"
+        }
+      },
+      "ownerId": "ApPMer040bACF4ItaxHZ",
+      "location": {
+        "zipCode": "10002",
+        "city": "New York",
+        "longitude": -73.986,
+        "state": "NY",
+        "latitude": 40.732800000000005,
+        "country": "USA",
+        "address": "102 Main St"
+      },
+      "pricePerHour": 60,
+      "spaceName": "Executive Office Suite",
+      "createdAt": {
+        "_seconds": 1767688983,
+        "_nanoseconds": 818000000
+      },
+      "deletedAt": {
+        "_seconds": 1767720022,
+        "_nanoseconds": 877000000
+      },
+      "statusReason": "kkk",
+      "deletedBy": "NrQCeiETFmvA4iNcbLTw",
+      "status": "deleted"
+    }
+  },
+  {
+    "id": "GHC9cZSgw0QFaYbblKzw",
+    "data": {
+      "ownerId": "Lmu27vJVbmzJFOCOJ6AF",
+      "availability": {
+        "friday": {
+          "available": true,
+          "start": "09:00",
+          "end": "18:00"
+        },
+        "thursday": {
+          "end": "18:00",
+          "available": true,
+          "start": "09:00"
+        },
+        "wednesday": {
+          "available": true,
+          "end": "18:00",
+          "start": "09:00"
+        },
+        "saturday": {
+          "end": "16:00",
+          "available": false,
+          "start": "10:00"
+        },
+        "monday": {
+          "available": true,
+          "end": "18:00",
+          "start": "09:00"
+        },
+        "tuesday": {
+          "start": "09:00",
+          "end": "18:00",
+          "available": true
+        },
+        "sunday": {
+          "start": "10:00",
+          "available": false,
+          "end": "16:00"
+        }
+      },
+      "pricePerHour": 50,
+      "spaceName": "Modern Conference Room A",
+      "stats": {
+        "totalRevenue": 0,
+        "averageRating": 0,
+        "reviewCount": 0,
+        "viewCount": 0,
+        "totalBookings": 0
+      },
+      "location": {
+        "address": "100 Main St",
+        "latitude": 40.7128,
+        "country": "USA",
+        "longitude": -74.006,
+        "zipCode": "10000",
+        "state": "NY",
+        "city": "New York"
+      },
+      "spaceType": "meeting_room",
+      "description": "A spacious modern conference room perfect for team meetings.",
+      "amenities": [
+        "WiFi",
+        "Projector",
+        "Whiteboard",
+        "Coffee",
+        "AC"
+      ],
+      "capacity": 12,
+      "createdAt": {
+        "_seconds": 1767688982,
+        "_nanoseconds": 998000000
+      },
+      "deletedAt": {
+        "_seconds": 1767727888,
+        "_nanoseconds": 280000000
+      },
+      "statusReason": "lkjhgf",
+      "deletedBy": "NrQCeiETFmvA4iNcbLTw",
+      "status": "deleted"
+    }
+  },
+  {
+    "id": "SJo8I5vfCyWGybe6PZfP",
+    "data": {
+      "location": {
+        "state": "NY",
+        "latitude": 40.7228,
+        "zipCode": "10001",
+        "longitude": -73.996,
+        "country": "USA",
+        "city": "New York",
+        "address": "101 Main St"
+      },
+      "ownerId": "72AyNefkklYgIVVMZ1iU",
+      "availability": {
+        "sunday": {
+          "start": "10:00",
+          "end": "16:00",
+          "available": false
+        },
+        "saturday": {
+          "available": false,
+          "start": "10:00",
+          "end": "16:00"
+        },
+        "friday": {
+          "available": true,
+          "end": "18:00",
+          "start": "09:00"
+        },
+        "monday": {
+          "end": "18:00",
+          "available": true,
+          "start": "09:00"
+        },
+        "thursday": {
+          "available": true,
+          "end": "18:00",
+          "start": "09:00"
+        },
+        "wednesday": {
+          "end": "18:00",
+          "start": "09:00",
+          "available": true
+        },
+        "tuesday": {
+          "end": "18:00",
+          "available": true,
+          "start": "09:00"
+        }
+      },
+      "amenities": [
+        "WiFi",
+        "Natural Light",
+        "Coffee",
+        "Parking"
+      ],
+      "spaceName": "Creative Studio Space",
+      "pricePerHour": 40,
+      "capacity": 8,
+      "spaceType": "office",
+      "description": "Bright and inspiring studio space for creative work.",
+      "stats": {
+        "viewCount": 0,
+        "averageRating": 0,
+        "reviewCount": 0,
+        "totalRevenue": 0,
+        "totalBookings": 0
+      },
+      "createdAt": {
+        "_seconds": 1767688983,
+        "_nanoseconds": 550000000
+      },
+      "deletedAt": {
+        "_seconds": 1767765185,
+        "_nanoseconds": 387000000
+      },
+      "statusReason": "kkkllll",
+      "deletedBy": "NrQCeiETFmvA4iNcbLTw",
+      "status": "deleted"
+    }
+  },
+  {
+    "id": "Te51DfbkLNidSZSX3I2c",
+    "data": {
+      "stats": {
+        "totalRevenue": 0,
+        "totalBookings": 0,
+        "averageRating": 0,
+        "viewCount": 0,
+        "reviewCount": 0
+      },
+      "location": {
+        "zipCode": "10004",
+        "city": "New York",
+        "address": "104 Main St",
+        "longitude": -73.966,
+        "latitude": 40.7528,
+        "state": "NY",
+        "country": "USA"
+      },
+      "pricePerHour": 150,
+      "capacity": 50,
+      "description": "Large event space for workshops and seminars.",
+      "amenities": [
+        "WiFi",
+        "Sound System",
+        "Projector",
+        "Stage"
+      ],
+      "spaceName": "Event Hall",
+      "spaceType": "event_space",
+      "availability": {
+        "sunday": {
+          "start": "10:00",
+          "end": "16:00",
+          "available": false
+        },
+        "thursday": {
+          "available": true,
+          "end": "18:00",
+          "start": "09:00"
+        },
+        "tuesday": {
+          "available": true,
+          "end": "18:00",
+          "start": "09:00"
+        },
+        "saturday": {
+          "available": false,
+          "start": "10:00",
+          "end": "16:00"
+        },
+        "friday": {
+          "available": true,
+          "start": "09:00",
+          "end": "18:00"
+        },
+        "wednesday": {
+          "end": "18:00",
+          "available": true,
+          "start": "09:00"
+        },
+        "monday": {
+          "end": "18:00",
+          "available": true,
+          "start": "09:00"
+        }
+      },
+      "ownerId": "72AyNefkklYgIVVMZ1iU",
+      "createdAt": {
+        "_seconds": 1767688984,
+        "_nanoseconds": 662000000
+      },
+      "reviewedBy": "NrQCeiETFmvA4iNcbLTw",
+      "updatedAt": {
+        "_seconds": 1767720211,
+        "_nanoseconds": 148000000
+      },
+      "deletedAt": {
+        "_seconds": 1767765537,
+        "_nanoseconds": 852000000
+      },
+      "statusReason": "mo",
+      "deletedBy": "NrQCeiETFmvA4iNcbLTw",
+      "status": "deleted"
+    }
+  },
+  {
+    "id": "bKCrlflgddOyzvKmMEiE",
+    "data": {
+      "status": "active",
+      "capacity": 1,
+      "pricePerHour": 15,
+      "ownerId": "Lmu27vJVbmzJFOCOJ6AF",
+      "availability": {
+        "saturday": {
+          "available": false,
+          "end": "16:00",
+          "start": "10:00"
+        },
+        "thursday": {
+          "available": true,
+          "end": "18:00",
+          "start": "09:00"
+        },
+        "tuesday": {
+          "available": true,
+          "end": "18:00",
+          "start": "09:00"
+        },
+        "sunday": {
+          "available": false,
+          "end": "16:00",
+          "start": "10:00"
+        },
+        "monday": {
+          "available": true,
+          "end": "18:00",
+          "start": "09:00"
+        },
+        "friday": {
+          "start": "09:00",
+          "available": true,
+          "end": "18:00"
+        },
+        "wednesday": {
+          "start": "09:00",
+          "available": true,
+          "end": "18:00"
+        }
+      },
+      "description": "Open desk in vibrant coworking environment.",
+      "spaceType": "desk",
+      "spaceName": "Collaborative Desk Space",
+      "stats": {
+        "averageRating": 0,
+        "reviewCount": 0,
+        "totalRevenue": 0,
+        "totalBookings": 0,
+        "viewCount": 0
+      },
+      "amenities": [
+        "WiFi",
+        "Coffee",
+        "Community Events"
+      ],
+      "location": {
+        "city": "New York",
+        "country": "USA",
+        "latitude": 40.7428,
+        "address": "103 Main St",
+        "zipCode": "10003",
+        "longitude": -73.976,
+        "state": "NY"
+      },
+      "createdAt": {
+        "_seconds": 1767688984,
+        "_nanoseconds": 355000000
+      }
+    }
+  },
+  {
+    "id": "uIJNNDvEutHY1UKngE33",
+    "data": {
+      "pricePerHour": 75,
+      "createdAt": {
+        "_seconds": 1706745600,
+        "_nanoseconds": 0
+      },
+      "capacity": 8,
+      "address": "789 Corniche Road, Alexandria",
+      "location": "Alexandria, Egypt",
+      "description": "Professional meeting rooms for rent",
+      "amenities": [
+        "Projector",
+        "Whiteboard",
+        "Video Conferencing",
+        "WiFi"
+      ],
+      "status": "active",
+      "updatedAt": {
+        "_seconds": 1706745600,
+        "_nanoseconds": 0
+      },
+      "spaceType": "Meeting Room",
+      "spaceName": "Meeting Room Plus"
+    }
+  },
+  {
+    "id": "yWAIhyqsBA6tbP00Bluv",
+    "data": {
+      "amenities": [
+        "WiFi",
+        "Coffee",
+        "Printing",
+        "Meeting Rooms",
+        "Parking"
+      ],
+      "capacity": 20,
+      "pricePerHour": 50,
+      "address": "123 Tahrir Street, Cairo",
+      "description": "Modern coworking space in the heart of downtown",
+      "updatedAt": {
+        "_seconds": 1704844800,
+        "_nanoseconds": 0
+      },
+      "spaceType": "Coworking Space",
+      "spaceName": "Downtown Creative Hub",
+      "createdAt": {
+        "_seconds": 1704844800,
+        "_nanoseconds": 0
+      },
+      "status": "active",
+      "location": "Cairo, Egypt"
+    }
+  },
+  {
+    "id": "z5Zw2zxW0c94ZrrKnjN1",
+    "data": {
+      "amenities": [
+        "WiFi",
+        "Conference Room",
+        "Kitchen",
+        "Air Conditioning"
+      ],
+      "spaceType": "Private Office",
+      "description": "Premium office space for tech startups",
+      "status": "active",
+      "spaceName": "Tech Valley Office",
+      "pricePerHour": 100,
+      "address": "456 Innovation Street, New Cairo",
+      "createdAt": {
+        "_seconds": 1705708800,
+        "_nanoseconds": 0
+      },
+      "capacity": 10,
+      "updatedAt": {
+        "_seconds": 1705708800,
+        "_nanoseconds": 0
+      },
+      "location": "New Cairo, Egypt"
+    }
+  }
+]

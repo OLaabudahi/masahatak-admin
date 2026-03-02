@@ -1,0 +1,57 @@
+[
+  {
+    "id": "BDzQhzzC2m2mBqOWziCG",
+    "data": {
+      "password": "$2a$10$An9./vJRRrjpO8jFQZ1nDe9F5bpKWNwJrPbRu1vwBwLnsJ0ju4r16",
+      "email": "adasminttt@masahatak.com",
+      "status": "active",
+      "fullName": "dfgdf",
+      "createdAt": {
+        "_seconds": 1767727973,
+        "_nanoseconds": 653000000
+      },
+      "role": "super_admin",
+      "updatedAt": {
+        "_seconds": 1767727977,
+        "_nanoseconds": 239000000
+      }
+    }
+  },
+  {
+    "id": "NrQCeiETFmvA4iNcbLTw",
+    "data": {
+      "status": "active",
+      "role": "super_admin",
+      "email": "adasmin@masahatak.com",
+      "createdAt": {
+        "_seconds": 1767703164,
+        "_nanoseconds": 232000000
+      },
+      "phone": "",
+      "password": "$2a$10$KPWhvuc7DyTN5G.EUubrteL3R.dcJsKyLOdm5/QERM3N3kd7mpvgC",
+      "fullName": "gfdfsdgjjjj",
+      "updatedAt": {
+        "_seconds": 1767765660,
+        "_nanoseconds": 221000000
+      }
+    }
+  },
+  {
+    "id": "tDJQ1Vbo8jNsw1zTWeOg",
+    "data": {
+      "fullName": "hgghghgh",
+      "createdAt": {
+        "_seconds": 1767765642,
+        "_nanoseconds": 799000000
+      },
+      "password": "$2a$10$psIUvNG1UKmkeCXspRUAc.7NH4UC7P1yKg5yGgyiEY6qqfhdAkylO",
+      "status": "active",
+      "email": "adasminhhh@masahatak.com",
+      "role": "super_admin",
+      "updatedAt": {
+        "_seconds": 1767765650,
+        "_nanoseconds": 393000000
+      }
+    }
+  }
+]

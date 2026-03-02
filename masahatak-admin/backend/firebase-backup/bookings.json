@@ -1,0 +1,741 @@
+[
+  {
+    "id": "1ZDduv057kX0hCmYLfJX",
+    "data": {
+      "startDate": {
+        "_seconds": 1765518183,
+        "_nanoseconds": 444000000
+      },
+      "status": "completed",
+      "updatedAt": {
+        "_seconds": 1767764583,
+        "_nanoseconds": 444000000
+      },
+      "workspaceId": "Te51DfbkLNidSZSX3I2c",
+      "userId": "fc9It4lndFsnXJIotNYP",
+      "purpose": "Training",
+      "numberOfPeople": 6,
+      "createdAt": {
+        "_seconds": 1765193530,
+        "_nanoseconds": 218000000
+      },
+      "hours": 7,
+      "totalAmount": 1050,
+      "endDate": {
+        "_seconds": 1765543383,
+        "_nanoseconds": 444000000
+      }
+    }
+  },
+  {
+    "id": "2WqlfafSKOMCMGi5vFPN",
+    "data": {
+      "status": "completed",
+      "workspaceId": "z5Zw2zxW0c94ZrrKnjN1",
+      "userId": "KyFKwTsTSxYjVc4PBXJa",
+      "updatedAt": {
+        "_seconds": 1734652800,
+        "_nanoseconds": 0
+      },
+      "startDate": {
+        "_seconds": 1734678000,
+        "_nanoseconds": 0
+      },
+      "totalPrice": 900,
+      "createdAt": {
+        "_seconds": 1734220800,
+        "_nanoseconds": 0
+      },
+      "hours": 9,
+      "endDate": {
+        "_seconds": 1734710400,
+        "_nanoseconds": 0
+      }
+    }
+  },
+  {
+    "id": "30UISooUkaxmmyXUPA6I",
+    "data": {
+      "hours": 3,
+      "purpose": "Workshop",
+      "endDate": {
+        "_seconds": 1765960983,
+        "_nanoseconds": 444000000
+      },
+      "numberOfPeople": 8,
+      "workspaceId": "z5Zw2zxW0c94ZrrKnjN1",
+      "cancellationReason": "User requested cancellation",
+      "updatedAt": {
+        "_seconds": 1767764583,
+        "_nanoseconds": 444000000
+      },
+      "userId": "yjOCZj2FJWQ2mjWp63P7",
+      "createdAt": {
+        "_seconds": 1766889532,
+        "_nanoseconds": 33000000
+      },
+      "totalAmount": 300,
+      "startDate": {
+        "_seconds": 1765950183,
+        "_nanoseconds": 444000000
+      },
+      "status": "cancelled",
+      "cancelledAt": {
+        "_seconds": 1767764583,
+        "_nanoseconds": 444000000
+      }
+    }
+  },
+  {
+    "id": "50r5rs1mkrMutZVLcDs1",
+    "data": {
+      "hours": 1,
+      "createdAt": {
+        "_seconds": 1765841524,
+        "_nanoseconds": 367000000
+      },
+      "startDate": {
+        "_seconds": 1766209383,
+        "_nanoseconds": 444000000
+      },
+      "numberOfPeople": 10,
+      "endDate": {
+        "_seconds": 1766212983,
+        "_nanoseconds": 444000000
+      },
+      "totalAmount": 150,
+      "workspaceId": "Te51DfbkLNidSZSX3I2c",
+      "userId": "fc9It4lndFsnXJIotNYP",
+      "updatedAt": {
+        "_seconds": 1767764583,
+        "_nanoseconds": 444000000
+      },
+      "status": "pending",
+      "purpose": "Event"
+    }
+  },
+  {
+    "id": "7vMvW1ODi94YiM7ctxDN",
+    "data": {
+      "hours": 7,
+      "userId": "fc9It4lndFsnXJIotNYP",
+      "startDate": {
+        "_seconds": 1766986983,
+        "_nanoseconds": 444000000
+      },
+      "numberOfPeople": 6,
+      "createdAt": {
+        "_seconds": 1767531629,
+        "_nanoseconds": 166000000
+      },
+      "purpose": "Meeting",
+      "workspaceId": "z5Zw2zxW0c94ZrrKnjN1",
+      "updatedAt": {
+        "_seconds": 1767764583,
+        "_nanoseconds": 444000000
+      },
+      "totalAmount": 700,
+      "status": "completed",
+      "endDate": {
+        "_seconds": 1767012183,
+        "_nanoseconds": 444000000
+      }
+    }
+  },
+  {
+    "id": "BEhra4sUSLuuoZbygv0d",
+    "data": {
+      "numberOfPeople": 3,
+      "startDate": {
+        "_seconds": 1769233383,
+        "_nanoseconds": 444000000
+      },
+      "hours": 7,
+      "endDate": {
+        "_seconds": 1769258583,
+        "_nanoseconds": 444000000
+      },
+      "totalAmount": 280,
+      "userId": "yjOCZj2FJWQ2mjWp63P7",
+      "purpose": "Meeting",
+      "workspaceId": "SJo8I5vfCyWGybe6PZfP",
+      "updatedAt": {
+        "_seconds": 1767764583,
+        "_nanoseconds": 444000000
+      },
+      "createdAt": {
+        "_seconds": 1767495754,
+        "_nanoseconds": 929000000
+      },
+      "cancellationReason": "no",
+      "cancelledAt": {
+        "_seconds": 1767765557,
+        "_nanoseconds": 617000000
+      },
+      "cancelledBy": "NrQCeiETFmvA4iNcbLTw",
+      "status": "cancelled"
+    }
+  },
+  {
+    "id": "C29CJewe6jcf3fXFWyL5",
+    "data": {
+      "updatedAt": {
+        "_seconds": 1767764583,
+        "_nanoseconds": 444000000
+      },
+      "createdAt": {
+        "_seconds": 1766520981,
+        "_nanoseconds": 513000000
+      },
+      "purpose": "Training",
+      "status": "pending",
+      "userId": "yjOCZj2FJWQ2mjWp63P7",
+      "workspaceId": "bKCrlflgddOyzvKmMEiE",
+      "hours": 5,
+      "totalAmount": 75,
+      "numberOfPeople": 8,
+      "endDate": {
+        "_seconds": 1767955383,
+        "_nanoseconds": 444000000
+      },
+      "startDate": {
+        "_seconds": 1767937383,
+        "_nanoseconds": 444000000
+      }
+    }
+  },
+  {
+    "id": "DPkLUGQyFdPZSLLujacX",
+    "data": {
+      "updatedAt": {
+        "_seconds": 1767764583,
+        "_nanoseconds": 444000000
+      },
+      "userId": "fc9It4lndFsnXJIotNYP",
+      "hours": 7,
+      "endDate": {
+        "_seconds": 1765888983,
+        "_nanoseconds": 444000000
+      },
+      "status": "confirmed",
+      "createdAt": {
+        "_seconds": 1765607675,
+        "_nanoseconds": 339000000
+      },
+      "startDate": {
+        "_seconds": 1765863783,
+        "_nanoseconds": 444000000
+      },
+      "numberOfPeople": 6,
+      "workspaceId": "SJo8I5vfCyWGybe6PZfP",
+      "purpose": "Workshop",
+      "totalAmount": 280
+    }
+  },
+  {
+    "id": "I92amaH7rawCxsXHYRti",
+    "data": {
+      "status": "confirmed",
+      "hours": 8,
+      "updatedAt": {
+        "_seconds": 1736035200,
+        "_nanoseconds": 0
+      },
+      "endDate": {
+        "_seconds": 1736521200,
+        "_nanoseconds": 0
+      },
+      "totalPrice": 400,
+      "workspaceId": "yWAIhyqsBA6tbP00Bluv",
+      "startDate": {
+        "_seconds": 1736492400,
+        "_nanoseconds": 0
+      },
+      "userId": "KyFKwTsTSxYjVc4PBXJa",
+      "createdAt": {
+        "_seconds": 1736035200,
+        "_nanoseconds": 0
+      }
+    }
+  },
+  {
+    "id": "LVloPw0tdu0cHOm7CfbM",
+    "data": {
+      "createdAt": {
+        "_seconds": 1766065754,
+        "_nanoseconds": 606000000
+      },
+      "workspaceId": "bKCrlflgddOyzvKmMEiE",
+      "startDate": {
+        "_seconds": 1770270183,
+        "_nanoseconds": 444000000
+      },
+      "userId": "yjOCZj2FJWQ2mjWp63P7",
+      "totalAmount": 105,
+      "endDate": {
+        "_seconds": 1770295383,
+        "_nanoseconds": 444000000
+      },
+      "status": "confirmed",
+      "updatedAt": {
+        "_seconds": 1767764583,
+        "_nanoseconds": 444000000
+      },
+      "hours": 7,
+      "numberOfPeople": 1,
+      "purpose": "Conference"
+    }
+  },
+  {
+    "id": "Og9cXCNXmfe4HO55ic65",
+    "data": {
+      "totalAmount": 200,
+      "userId": "fc9It4lndFsnXJIotNYP",
+      "endDate": {
+        "_seconds": 1769164983,
+        "_nanoseconds": 444000000
+      },
+      "numberOfPeople": 1,
+      "createdAt": {
+        "_seconds": 1765595960,
+        "_nanoseconds": 163000000
+      },
+      "updatedAt": {
+        "_seconds": 1767764583,
+        "_nanoseconds": 444000000
+      },
+      "hours": 5,
+      "startDate": {
+        "_seconds": 1769146983,
+        "_nanoseconds": 444000000
+      },
+      "status": "pending",
+      "purpose": "Workshop",
+      "workspaceId": "SJo8I5vfCyWGybe6PZfP"
+    }
+  },
+  {
+    "id": "QRXrpwqMT22piVNvvSQz",
+    "data": {
+      "endDate": {
+        "_seconds": 1767786183,
+        "_nanoseconds": 444000000
+      },
+      "startDate": {
+        "_seconds": 1767764583,
+        "_nanoseconds": 444000000
+      },
+      "userId": "fc9It4lndFsnXJIotNYP",
+      "hours": 6,
+      "updatedAt": {
+        "_seconds": 1767764583,
+        "_nanoseconds": 444000000
+      },
+      "createdAt": {
+        "_seconds": 1766169634,
+        "_nanoseconds": 803000000
+      },
+      "purpose": "Meeting",
+      "status": "completed",
+      "numberOfPeople": 8,
+      "workspaceId": "SJo8I5vfCyWGybe6PZfP",
+      "totalAmount": 240
+    }
+  },
+  {
+    "id": "TGhYVPioKEpcSNfZfrOe",
+    "data": {
+      "createdAt": {
+        "_seconds": 1766594038,
+        "_nanoseconds": 936000000
+      },
+      "startDate": {
+        "_seconds": 1766382183,
+        "_nanoseconds": 444000000
+      },
+      "purpose": "Conference",
+      "workspaceId": "bKCrlflgddOyzvKmMEiE",
+      "cancelledAt": {
+        "_seconds": 1767764583,
+        "_nanoseconds": 444000000
+      },
+      "numberOfPeople": 3,
+      "endDate": {
+        "_seconds": 1766410983,
+        "_nanoseconds": 444000000
+      },
+      "userId": "yjOCZj2FJWQ2mjWp63P7",
+      "hours": 8,
+      "totalAmount": 120,
+      "updatedAt": {
+        "_seconds": 1767764583,
+        "_nanoseconds": 444000000
+      },
+      "cancellationReason": "User requested cancellation",
+      "status": "cancelled"
+    }
+  },
+  {
+    "id": "X2d3FtJ7yrCYnXNYrjIM",
+    "data": {
+      "hours": 3,
+      "updatedAt": {
+        "_seconds": 1737158400,
+        "_nanoseconds": 0
+      },
+      "endDate": {
+        "_seconds": 1737381600,
+        "_nanoseconds": 0
+      },
+      "userId": "6Jd6gwIVSz1VXc7bufiz",
+      "startDate": {
+        "_seconds": 1737370800,
+        "_nanoseconds": 0
+      },
+      "createdAt": {
+        "_seconds": 1737158400,
+        "_nanoseconds": 0
+      },
+      "totalPrice": 225,
+      "workspaceId": "uIJNNDvEutHY1UKngE33",
+      "cancellationReason": "ggg",
+      "cancelledAt": {
+        "_seconds": 1767725508,
+        "_nanoseconds": 646000000
+      },
+      "cancelledBy": "NrQCeiETFmvA4iNcbLTw",
+      "status": "cancelled"
+    }
+  },
+  {
+    "id": "ZEV271saw7HcbnNqcY7L",
+    "data": {
+      "endDate": {
+        "_seconds": 1765183383,
+        "_nanoseconds": 444000000
+      },
+      "userId": "yjOCZj2FJWQ2mjWp63P7",
+      "updatedAt": {
+        "_seconds": 1767764583,
+        "_nanoseconds": 444000000
+      },
+      "numberOfPeople": 8,
+      "workspaceId": "z5Zw2zxW0c94ZrrKnjN1",
+      "startDate": {
+        "_seconds": 1765172583,
+        "_nanoseconds": 444000000
+      },
+      "purpose": "Training",
+      "createdAt": {
+        "_seconds": 1765862958,
+        "_nanoseconds": 734000000
+      },
+      "hours": 3,
+      "totalAmount": 300,
+      "status": "confirmed"
+    }
+  },
+  {
+    "id": "ZRyfjwxTRoZNhfu7CznD",
+    "data": {
+      "hours": 4,
+      "userId": "fc9It4lndFsnXJIotNYP",
+      "numberOfPeople": 8,
+      "cancelledAt": {
+        "_seconds": 1767764583,
+        "_nanoseconds": 444000000
+      },
+      "workspaceId": "bKCrlflgddOyzvKmMEiE",
+      "createdAt": {
+        "_seconds": 1767534477,
+        "_nanoseconds": 714000000
+      },
+      "startDate": {
+        "_seconds": 1770010983,
+        "_nanoseconds": 444000000
+      },
+      "cancellationReason": "User requested cancellation",
+      "endDate": {
+        "_seconds": 1770025383,
+        "_nanoseconds": 444000000
+      },
+      "updatedAt": {
+        "_seconds": 1767764583,
+        "_nanoseconds": 444000000
+      },
+      "status": "cancelled",
+      "totalAmount": 60,
+      "purpose": "Meeting"
+    }
+  },
+  {
+    "id": "dGy821asmUYbzNhpnk2H",
+    "data": {
+      "createdAt": {
+        "_seconds": 1734652800,
+        "_nanoseconds": 0
+      },
+      "cancellationReason": "User requested cancellation",
+      "workspaceId": "yWAIhyqsBA6tbP00Bluv",
+      "totalPrice": 250,
+      "hours": 5,
+      "status": "cancelled",
+      "endDate": {
+        "_seconds": 1735131600,
+        "_nanoseconds": 0
+      },
+      "updatedAt": {
+        "_seconds": 1734912000,
+        "_nanoseconds": 0
+      },
+      "userId": "fc9It4lndFsnXJIotNYP",
+      "startDate": {
+        "_seconds": 1735113600,
+        "_nanoseconds": 0
+      }
+    }
+  },
+  {
+    "id": "epEtGW2qr2Sqd5GGBlJN",
+    "data": {
+      "createdAt": {
+        "_seconds": 1736294400,
+        "_nanoseconds": 0
+      },
+      "startDate": {
+        "_seconds": 1736928000,
+        "_nanoseconds": 0
+      },
+      "endDate": {
+        "_seconds": 1736942400,
+        "_nanoseconds": 0
+      },
+      "hours": 4,
+      "totalPrice": 400,
+      "userId": "fc9It4lndFsnXJIotNYP",
+      "updatedAt": {
+        "_seconds": 1736294400,
+        "_nanoseconds": 0
+      },
+      "workspaceId": "z5Zw2zxW0c94ZrrKnjN1",
+      "cancellationReason": "lkjh",
+      "cancelledAt": {
+        "_seconds": 1767727911,
+        "_nanoseconds": 496000000
+      },
+      "cancelledBy": "NrQCeiETFmvA4iNcbLTw",
+      "status": "cancelled"
+    }
+  },
+  {
+    "id": "fKoDgOwCi3JL9IHeyurI",
+    "data": {
+      "hours": 2,
+      "totalAmount": 300,
+      "numberOfPeople": 6,
+      "startDate": {
+        "_seconds": 1765518183,
+        "_nanoseconds": 444000000
+      },
+      "workspaceId": "Te51DfbkLNidSZSX3I2c",
+      "endDate": {
+        "_seconds": 1765525383,
+        "_nanoseconds": 444000000
+      },
+      "createdAt": {
+        "_seconds": 1766295583,
+        "_nanoseconds": 858000000
+      },
+      "purpose": "Event",
+      "updatedAt": {
+        "_seconds": 1767764583,
+        "_nanoseconds": 444000000
+      },
+      "userId": "fc9It4lndFsnXJIotNYP",
+      "status": "confirmed"
+    }
+  },
+  {
+    "id": "ivo8Krd55S9PmSsum6NL",
+    "data": {
+      "totalAmount": 300,
+      "hours": 3,
+      "status": "confirmed",
+      "workspaceId": "z5Zw2zxW0c94ZrrKnjN1",
+      "createdAt": {
+        "_seconds": 1765933328,
+        "_nanoseconds": 550000000
+      },
+      "startDate": {
+        "_seconds": 1769319783,
+        "_nanoseconds": 444000000
+      },
+      "userId": "fc9It4lndFsnXJIotNYP",
+      "updatedAt": {
+        "_seconds": 1767764583,
+        "_nanoseconds": 444000000
+      },
+      "endDate": {
+        "_seconds": 1769330583,
+        "_nanoseconds": 444000000
+      },
+      "purpose": "Training",
+      "numberOfPeople": 1
+    }
+  },
+  {
+    "id": "ll2oOCXtq23nPvYsROOt",
+    "data": {
+      "numberOfPeople": 4,
+      "endDate": {
+        "_seconds": 1768560183,
+        "_nanoseconds": 443000000
+      },
+      "status": "completed",
+      "userId": "yjOCZj2FJWQ2mjWp63P7",
+      "workspaceId": "bKCrlflgddOyzvKmMEiE",
+      "updatedAt": {
+        "_seconds": 1767764583,
+        "_nanoseconds": 444000000
+      },
+      "createdAt": {
+        "_seconds": 1766974204,
+        "_nanoseconds": 698000000
+      },
+      "startDate": {
+        "_seconds": 1768542183,
+        "_nanoseconds": 443000000
+      },
+      "purpose": "Event",
+      "totalAmount": 75,
+      "hours": 5
+    }
+  },
+  {
+    "id": "njAtUEErAuFK2g7s4ND1",
+    "data": {
+      "updatedAt": {
+        "_seconds": 1767764583,
+        "_nanoseconds": 444000000
+      },
+      "purpose": "Event",
+      "startDate": {
+        "_seconds": 1768282983,
+        "_nanoseconds": 444000000
+      },
+      "hours": 5,
+      "cancellationReason": "User requested cancellation",
+      "endDate": {
+        "_seconds": 1768300983,
+        "_nanoseconds": 444000000
+      },
+      "createdAt": {
+        "_seconds": 1765461627,
+        "_nanoseconds": 503000000
+      },
+      "workspaceId": "SJo8I5vfCyWGybe6PZfP",
+      "cancelledAt": {
+        "_seconds": 1767764583,
+        "_nanoseconds": 444000000
+      },
+      "numberOfPeople": 8,
+      "userId": "fc9It4lndFsnXJIotNYP",
+      "status": "cancelled",
+      "totalAmount": 200
+    }
+  },
+  {
+    "id": "nt5Ijv0tfoUPTXH8zweT",
+    "data": {
+      "cancelledAt": {
+        "_seconds": 1767764583,
+        "_nanoseconds": 444000000
+      },
+      "workspaceId": "z5Zw2zxW0c94ZrrKnjN1",
+      "cancellationReason": "User requested cancellation",
+      "purpose": "Conference",
+      "totalAmount": 100,
+      "endDate": {
+        "_seconds": 1768200183,
+        "_nanoseconds": 444000000
+      },
+      "updatedAt": {
+        "_seconds": 1767764583,
+        "_nanoseconds": 444000000
+      },
+      "startDate": {
+        "_seconds": 1768196583,
+        "_nanoseconds": 444000000
+      },
+      "createdAt": {
+        "_seconds": 1766381716,
+        "_nanoseconds": 988000000
+      },
+      "userId": "fc9It4lndFsnXJIotNYP",
+      "hours": 1,
+      "status": "cancelled",
+      "numberOfPeople": 6
+    }
+  },
+  {
+    "id": "wotJ3SxK1IgkTLTdnDiS",
+    "data": {
+      "hours": 8,
+      "updatedAt": {
+        "_seconds": 1767764583,
+        "_nanoseconds": 444000000
+      },
+      "purpose": "Event",
+      "endDate": {
+        "_seconds": 1767706983,
+        "_nanoseconds": 444000000
+      },
+      "status": "cancelled",
+      "userId": "yjOCZj2FJWQ2mjWp63P7",
+      "startDate": {
+        "_seconds": 1767678183,
+        "_nanoseconds": 444000000
+      },
+      "cancelledAt": {
+        "_seconds": 1767764583,
+        "_nanoseconds": 444000000
+      },
+      "numberOfPeople": 7,
+      "cancellationReason": "User requested cancellation",
+      "totalAmount": 320,
+      "workspaceId": "SJo8I5vfCyWGybe6PZfP",
+      "createdAt": {
+        "_seconds": 1766809570,
+        "_nanoseconds": 990000000
+      }
+    }
+  },
+  {
+    "id": "zHI1HprcL9goxE46zaSg",
+    "data": {
+      "createdAt": {
+        "_seconds": 1766621068,
+        "_nanoseconds": 958000000
+      },
+      "workspaceId": "Te51DfbkLNidSZSX3I2c",
+      "startDate": {
+        "_seconds": 1769492583,
+        "_nanoseconds": 444000000
+      },
+      "status": "completed",
+      "totalAmount": 900,
+      "endDate": {
+        "_seconds": 1769514183,
+        "_nanoseconds": 444000000
+      },
+      "numberOfPeople": 1,
+      "purpose": "Workshop",
+      "userId": "fc9It4lndFsnXJIotNYP",
+      "updatedAt": {
+        "_seconds": 1767764583,
+        "_nanoseconds": 444000000
+      },
+      "hours": 6
+    }
+  }
+]
