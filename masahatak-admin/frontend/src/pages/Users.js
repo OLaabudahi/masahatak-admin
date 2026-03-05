@@ -160,13 +160,18 @@ const Users = () => {
 
   const handleCreateUser = async () => {
     try {
-      await api.post('/users', newUser);
-      setSuccess('User created successfully');
+      await api.post('/superadmin/admins', {
+        email: newUser.email,
+        fullName: newUser.fullName,
+        password: newUser.password,
+        role: 'admin',
+      });
+      setSuccess('Admin created successfully');
       setCreateDialogOpen(false);
       setNewUser({ email: '', fullName: '', phoneNumber: '', password: '' });
       fetchUsers();
     } catch (err) {
-      setError(err.response?.data?.error || 'Failed to create user');
+      setError(err.response?.data?.error || 'Failed to create admin');
       console.error(err);
     }
   };
@@ -495,9 +500,9 @@ const Users = () => {
         </DialogActions>
       </Dialog>
 
-      {/* Create User Dialog */}
+      {/* Create Admin Dialog */}
       <Dialog open={createDialogOpen} onClose={() => setCreateDialogOpen(false)} maxWidth="sm" fullWidth>
-        <DialogTitle>{t('users.createUser')}</DialogTitle>
+        <DialogTitle>Create New Admin</DialogTitle>
         <DialogContent>
           <Grid container spacing={2} sx={{ mt: 1 }}>
             <Grid item xs={12}>
@@ -523,25 +528,12 @@ const Users = () => {
             <Grid item xs={12}>
               <TextField
                 fullWidth
-                label={t('users.phoneNumber')}
-                value={newUser.phoneNumber}
-                onChange={(e) => {
-                  // Only allow numbers and +
-                  const value = e.target.value.replace(/[^\d+]/g, '');
-                  setNewUser({ ...newUser, phoneNumber: value });
-                }}
-                required
-                error={newUser.phoneNumber && !/^\+?\d{10,15}$/.test(newUser.phoneNumber)}
-              />
-            </Grid>
-            <Grid item xs={12}>
-              <TextField
-                fullWidth
                 label={t('users.password')}
                 type="password"
                 value={newUser.password}
                 onChange={(e) => setNewUser({ ...newUser, password: e.target.value })}
                 required
+                helperText="Minimum 6 characters"
               />
             </Grid>
           </Grid>
@@ -554,11 +546,9 @@ const Users = () => {
             disabled={
               !newUser.email ||
               !newUser.fullName ||
-              !newUser.phoneNumber ||
               !newUser.password ||
               newUser.password.length < 6 ||
-              !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(newUser.email) ||
-              !/^\+?\d{10,15}$/.test(newUser.phoneNumber)
+              !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(newUser.email)
             }
           >
             {t('common.create')}
